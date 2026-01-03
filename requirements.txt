@@ -1,0 +1,38 @@
+# FastAPI and Server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+pydantic==2.5.3
+
+# LangChain Core
+langchain==0.1.4
+langchain-core==0.1.16
+langchain-community==0.0.16
+langchain-openai==0.0.5
+
+# LangGraph for Agentic Workflows
+langgraph==0.0.20
+
+# Vector Store
+chromadb==0.4.22
+
+# OpenAI
+openai==1.10.0
+
+# Document Processing
+pypdf==4.0.1
+pypdf2==3.0.1
+
+# Embeddings
+sentence-transformers==2.3.1
+tiktoken==0.5.2
+
+# Environment Variables
+python-dotenv==1.0.0
+
+# LangSmith (Optional - for tracing)
+langsmith==0.0.83
+
+# Utilities
+requests==2.31.0
+pydantic-settings==2.1.0
